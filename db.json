@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "title": "parade",
+      "topic": "theater",
+      "day": "2023-09-04",
+      "time": "13:32",
+      "id": 1
+    },
+    {
+      "title": "bz",
+      "topic": "buz",
+      "day": "2023-08-30",
+      "time": "15:38",
+      "id": 2
+    }
+  ]
+}
